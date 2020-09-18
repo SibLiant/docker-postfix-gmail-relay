@@ -1,5 +1,5 @@
-FROM ubuntu:14.04
-MAINTAINER Lyle Scott, III "lyle@digitalfoo.net"
+FROM ubuntu:20.04
+MAINTAINER SibLiant "sib@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 
